@@ -16,7 +16,7 @@
 
   /* Header */
   header {
-    padding: 10x;
+    padding: flex;
     background-color: #fff;
     color: #000000;
     text-align: center;
@@ -60,7 +60,7 @@ table, th, td {
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color :#F6B477;
 }
   
   .img {
