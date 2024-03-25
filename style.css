@@ -11,15 +11,16 @@
     font-size: 16px;
     line-height: 1.5;
     color: #333;
-    background-color: #fff;
+    background-color: wheat;
   }
   
   /* Header */
   header {
+    padding: flex;
     background-color: #fff;
     color: #000000;
     text-align: center;
-    padding: 20px;
+    border: 2px solid black;
   }
   
   /* Title */
@@ -39,15 +40,18 @@
   }
   
   /* Main Content */
-  main {
-    padding: 20px;
+  .main {
+    padding: flex;
+    background-color: #fff;
+    color: #000000;
+    text-align: justify;
+    border: 2px solid black;
   }
   
-  /* Footer */
-  footer {
-    background-color: #000;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-  }
-  
+  .img {
+    width: 200px;
+    height: 315px ;
+    display: block; 
+    margin: auto; 
+   }
+   
