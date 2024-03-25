@@ -16,7 +16,7 @@
 
   /* Header */
   header {
-    padding: flex;
+    padding: 10x;
     background-color: #fff;
     color: #000000;
     text-align: center;
@@ -41,7 +41,7 @@
   
   /* Main Content */
   .main {
-    padding: flex;
+    padding: 20x;
     background-color: #fff;
     color: #000000;
     text-align: justify;
