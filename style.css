@@ -1,0 +1,53 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body */
+  body {
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-color: #fff;
+  }
+  
+  /* Header */
+  header {
+    background-color: #fff;
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Title */
+  h1 {
+    font-size: 24px;
+    margin-top: 0;
+  }
+  
+  /* Button */
+  button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Main Content */
+  main {
+    padding: 20px;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
