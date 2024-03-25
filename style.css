@@ -29,16 +29,19 @@
     margin-top: 0;
   }
   
-  /* Button */
-  button {
-    background-color: #000;
-    color: #fff;
-    border: none;
+ /* Button */
+button {
     padding: 10px 20px;
+    background-color: #fff;
+    color: #000000;
+    text-align: center;
+    border: 2px solid black;
     font-size: 16px;
     cursor: pointer;
-  }
-  
+    display: block;
+    margin: auto;
+}
+
   /* Main Content */
   .main {
     padding: 20x;
